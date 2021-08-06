@@ -1,10 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap);
-
-
-
-
-
 body {
   font-family: Rubik;
 }
@@ -1097,6 +1090,38 @@ section.lazy-placeholder:after {
 }
 .cid-qEqz66y6uJ .mbr-section-subtitle {
   color: #efefef;
+}
+.cid-sEnAj05WyZ {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #7f1933, #000000);
+}
+@media (min-width: 992px) {
+  .cid-sEnAj05WyZ .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sEnAj05WyZ .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-sEnAj05WyZ .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-sEnAj05WyZ .media-container-row .mbr-figure {
+    padding-left: 0;
+    padding-right: 4rem;
+  }
+}
+.cid-sEnAj05WyZ .mbr-section-title {
+  text-align: left;
+}
+.cid-sEnAj05WyZ .mbr-text,
+.cid-sEnAj05WyZ .mbr-section-btn {
+  text-align: left;
 }
 .cid-qDwoiZcpVo {
   padding-top: 30px;

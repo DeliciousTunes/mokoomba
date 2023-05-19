@@ -1065,31 +1065,20 @@ section.lazy-placeholder:after {
 }
 .cid-qDwdWQqM74 .nav-link:hover,
 .cid-qDwdWQqM74 .dropdown-item:hover {
-  color: #b2ccd2 !important;
-}
-.cid-ty0VdNQ84O {
-  background-image: url("../../../assets/images/mokoomba-2023-1640x924.jpg");
-}
-.cid-ty0VdNQ84O .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
+  color: #f28281 !important;
 }
 @media (min-width: 992px) {
-  .cid-ty0VdNQ84O .mbr-figure {
-    padding-right: 4rem;
-    padding-right: 0;
+  .cid-tEGqQ8FTaQ .mbr-figure {
     padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-ty0VdNQ84O .mbr-figure {
-    padding-bottom: 3rem;
+  .cid-tEGqQ8FTaQ .mbr-figure {
+    padding-top: 3rem;
   }
 }
-@media (max-width: 767px) {
-  .cid-ty0VdNQ84O .mbr-text {
-    text-align: center;
-  }
+.cid-tEGqQ8FTaQ .mbr-section-title {
+  color: #f28281;
 }
 .cid-qEqz66y6uJ {
   padding-top: 30px;
@@ -1662,13 +1651,10 @@ section.lazy-placeholder:after {
 }
 .cid-qEqD3coIjq .nav-link:hover,
 .cid-qEqD3coIjq .dropdown-item:hover {
-  color: #b2ccd2 !important;
+  color: #f28281 !important;
 }
 .cid-ty1PapFbsf {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-color: #000000;
-  background: linear-gradient(45deg, #000000, #232323);
+  background-image: url("../../../assets/images/mokoomba-2023-1640x924.jpg");
 }
 .cid-ty1PapFbsf .media-container-row {
   flex-direction: row-reverse;
@@ -2326,7 +2312,7 @@ section.lazy-placeholder:after {
 }
 .cid-qEwFaGfQ0z .nav-link:hover,
 .cid-qEwFaGfQ0z .dropdown-item:hover {
-  color: #b2ccd2 !important;
+  color: #f28281 !important;
 }
 .cid-rlUXWfw23n {
   padding-top: 60px;
@@ -2846,7 +2832,7 @@ section.lazy-placeholder:after {
 }
 .cid-qEwP6mooAn .nav-link:hover,
 .cid-qEwP6mooAn .dropdown-item:hover {
-  color: #b2ccd2 !important;
+  color: #f28281 !important;
 }
 .cid-qExeQRemO9 {
   background-image: url("../../../assets/images/mokoomba-2023-1640x924.jpg");
@@ -3346,7 +3332,7 @@ section.lazy-placeholder:after {
 }
 .cid-qEwSljaxZM .nav-link:hover,
 .cid-qEwSljaxZM .dropdown-item:hover {
-  color: #b2ccd2 !important;
+  color: #f28281 !important;
 }
 .cid-qEwSlkkG9D {
   padding-top: 105px;
@@ -3904,7 +3890,7 @@ section.lazy-placeholder:after {
 }
 .cid-qLHW9gVQBj .nav-link:hover,
 .cid-qLHW9gVQBj .dropdown-item:hover {
-  color: #b2ccd2 !important;
+  color: #f28281 !important;
 }
 .cid-qMm73TxjPo {
   padding-top: 135px;

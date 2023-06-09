@@ -1078,7 +1078,21 @@ section.lazy-placeholder:after {
   }
 }
 .cid-tEGqQ8FTaQ .mbr-section-title {
-  color: #f28281;
+  color: #000000;
+}
+.cid-tGG9XoELdz {
+  background: #000000;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #000000, #000000);
+}
+.cid-tGG9XoELdz .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-tGG9XoELdz .video-block {
+    width: 100% !important;
+  }
 }
 .cid-qEqz66y6uJ {
   padding-top: 30px;
